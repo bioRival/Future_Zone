@@ -2,16 +2,16 @@
 Small site project testing django functionality with flatpages
 
 To launch you need: 
-pycharm
-python 3.11
-django 4.2
+pycharm  
+python 3.11  
+django 4.2  
 
-to start write in terminal:
-cd django_folder
-python python.py runserver
+to start write in terminal:  
+cd django_folder  
+python python.py runserver  
 
-superuser:
-login:      giovanni
-password:   giorgio
+superuser:  
+login:      giovanni  
+password:   giorgio  
 
-follow provided localhost link
+follow provided localhost link  
